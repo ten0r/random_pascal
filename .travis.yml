@@ -1,0 +1,14 @@
+language: generic
+sudo: required
+dist: trusty
+
+install:
+        - apt-get install fpc
+
+script:
+        - echo "test"
+
+notifications:
+        email:
+                on_success: false
+                on_failure: false
