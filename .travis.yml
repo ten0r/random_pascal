@@ -10,7 +10,7 @@ addons:
 
 script:
         - fpc main.pas 
-        - ./a.out
+        - ./main
 
 notifications:
         email:

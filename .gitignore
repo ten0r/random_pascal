@@ -1,4 +1,5 @@
-a.out
-a.exe
+main
+main.exe
+*.o
 *.swp
 *.swo
