@@ -1,0 +1,3 @@
+begin
+	println('test');
+end.
