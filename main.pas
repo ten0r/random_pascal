@@ -1,3 +1,3 @@
 begin
-	println('test');
+	writeln('test');
 end.
